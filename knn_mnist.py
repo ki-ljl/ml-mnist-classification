@@ -2,7 +2,7 @@
 """
 @Time ： 2022/1/7 21:28
 @Author ：KI 
-@File ：knn-mnist.py
+@File ：knn_mnist.py
 @Motto：Hungry And Humble
 
 """
